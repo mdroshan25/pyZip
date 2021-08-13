@@ -6,7 +6,7 @@
 import zipfile,os,shutil,logging,sys
 
 
-
+'''Automate the files to pick and do this?'''
 
 dir_path=r'C:\Users\alena\OneDrive\Desktop\test' #Path of directory to be compressed 
 zipfile_path=r'C:\Users\alena\OneDrive\Desktop\test2\backup.zip'#Path of the compressed file
